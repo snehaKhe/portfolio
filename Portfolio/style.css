@@ -1,0 +1,277 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.portfolio-logo {
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 24px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #4b6cc1;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #9aa5b1;
+}
+
+.portfolio-banner-section {
+    background-color: #191a1d;
+    height: 100vh;
+    padding-left: 10px;
+}
+
+.banner-section-img {
+    height: 250px;
+    width: 250px;
+    margin-bottom: 10px;
+}
+
+.portfolio-banner-heading {
+    color: white;
+    font-family: Roboto;
+    font-weight: 500;
+
+}
+
+.name {
+    color: #4b6cc1;
+    font-family: Roboto;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.portfolio-banner-description {
+    color: #9aa5b1;
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 14px;
+
+}
+
+.portfolio-banner-button {
+    height: 50px;
+    width: 140px;
+    color: white;
+    background-color: #4b6cc1;
+    border-radius: 10px;
+    font-family: Roboto;
+    border-width: 0px;
+}
+
+.second-background-container {
+    background-color: #323f4b;
+    background-size: cover;
+
+}
+
+.about-heading {
+    color: #cced00;
+    font-weight: 600;
+}
+
+.about-main-heading {
+    font-size: 35px;
+    color: white;
+    font-weight: bold;
+}
+
+.man-img {
+    width: 100%;
+    border-radius: 15px;
+}
+
+.description {
+    font-size: 18px;
+    color: #9aa5b1;
+}
+
+.bottom-container {
+    background-color: #1f2933;
+
+}
+
+.language-bg-card {
+
+    background-color: #323f4b;
+    border-radius: 8px;
+    padding: 10px;
+
+}
+
+.language-name {
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+    padding: 6px;
+
+}
+
+.language-icon {
+    height: 80px;
+    width: 80px;
+}
+
+.project-background-container {
+    background-color: #323f4b;
+
+    background-size: cover;
+}
+
+.portfolio-heading {
+    color: #cced00;
+    font-size: 27px;
+    font-weight: bold;
+
+}
+
+.card {
+    border-radius: 10px;
+    background-color: #323f4b;
+
+}
+
+.project-main-heading {
+    font-size: 35px;
+    color: white;
+    font-weight: bold;
+}
+
+.img1 {
+    height: 40vh;
+    width: 100vw;
+
+
+}
+
+.card-container {
+    background-color: #3e4c59;
+
+
+}
+
+.web-design-head {
+    color: #9aa5b1;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.happy-meals-heading {
+    color: white;
+    font-size: 40px;
+    font-weight: 400;
+}
+
+.description {
+    font-size: 35px;
+    color: #9aa5b1;
+    font-weight: 400;
+}
+
+.read-more {
+    color: #cced00;
+    font-size: 19px;
+}
+
+.service-background-container {
+    background-color: #52606d;
+
+    background-size: cover;
+}
+
+.services-heading {
+    color: #cced00;
+    font-size: 28px;
+}
+
+.service-card {
+    background-color: #323f4b;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.service-main-heading {
+    color: white;
+    font-weight: bold;
+}
+
+.card-container {
+    background-color: #323f4b;
+    border-radius: 10px;
+
+}
+
+.symbol {
+    height: 90px;
+}
+
+.website-name {
+    color: white;
+    font-size: 27px;
+    font-weight: bold;
+}
+
+.description {
+    font-size: 28px;
+    color: #9aa5b1;
+}
+
+.work-done-section {
+    background-image: url('https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png');
+
+    background-size: cover;
+}
+
+.hr-line {
+    background-color: white;
+    width: 80px;
+}
+
+.likes-icon {
+    color: white;
+    font-family: Roboto;
+    font-weight: bold;
+
+}
+
+.project-completed {
+    color: white;
+    font-weight: 400;
+    font-size: 20px;
+
+}
+
+.footer-section-container {
+    background-color: #001c32;
+}
+
+.footer-section-copyright-container {
+    background-color: #0d2436;
+    padding: 10px;
+    color: #9aa5b1;
+    text-align: center;
+}
+
+.footer-img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+
+.name {
+    color: #cced00;
+    font-family: Roboto;
+    font-weight: 600;
+    font-size: 22px;
+    padding-left: 10px;
+}
+
+.description {
+    color: #9aa5b1;
+    font-family: Roboto;
+    font-weight: 300;
+    font-size: 14px;
+}
+
+.icon {
+    color: #5a7184;
+    font-size: 22px;
+    padding: 3px;
+}
